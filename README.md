@@ -47,14 +47,14 @@ Open Command Prompt and
 1. **Clone the repository**:
 
    ```
-   git clone https://github.com/kishindra26mei10033-boop/Vityarthi-Project.git
+   git clone https://github.com/raveena26bhi10114-vit/Academic_Compass.git
    
    ```
 
 2. **Navigate to the project directory**:
 
    ```
-   cd Vityarthi-Project
+   cd Academic_Compass
    
    ```
 
@@ -62,7 +62,7 @@ Open Command Prompt and
    Execute the Python file from your terminal:
 
    ```
-   python "main.py"
+   python main.py
    
    ```
 
