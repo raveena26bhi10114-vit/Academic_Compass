@@ -43,12 +43,34 @@ Allows the user to safely exit the program.
 
 ## How to Run
 
-1. Open the project folder.
-2. Open `main.py` using Python IDLE.
-3. Run the program.
-4. Select the required option from the main menu.
-5. Enter the required details.
-6. View the result displayed by the program.
+Open Command Prompt and
+1. **Clone the repository**:
+
+   ```
+   git clone https://github.com/kishindra26mei10033-boop/Vityarthi-Project.git
+   
+   ```
+
+2. **Navigate to the project directory**:
+
+   ```
+   cd Vityarthi-Project
+   
+   ```
+
+3. **Run the script**:
+   Execute the Python file from your terminal:
+
+   ```
+   python "main.py"
+   
+   ```
+
+   *(Note: Use `python3` instead of `python` if required by your operating system)*
+4. Run the program.
+5. Select the required option from the main menu.
+6. Enter the required details.
+7. View the result displayed by the program.
 
 ## Conclusion
 
