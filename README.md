@@ -42,6 +42,25 @@ Allows the user to safely exit the program.
 - cgpa_calculator.py
 
 ## How to Run
+### Prerequisites & Installation
+
+Before running the project, you need to have Git, Python, and pip installed on your system. 
+
+### 1. Install Git
+* Go to the official [Git Downloads page](https://git-scm.com/downloads).
+* Download the installer for your operating system and follow the setup wizard.
+* To verify the installation, open your Command Prompt (cmd) and type: `git --version`
+
+### 2. Install Python & pip
+* Go to the official [Python Downloads page](https://www.python.org/downloads/).
+* Download the latest version of Python 3.
+* **Important during setup:** Check the box that says **"Add Python to PATH"** at the bottom of the installer before clicking "Install Now".
+* *Note: `pip` (Python's package installer) is automatically included with Python 3 installations.*
+* To verify, open Command Prompt and type: 
+  * `python --version`
+  * `pip --version`
+
+---
 
 Open Command Prompt and
 1. **Clone the repository**:
